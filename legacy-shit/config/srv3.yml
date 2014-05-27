@@ -1,0 +1,4 @@
+network:
+    port: 5003
+
+trackers: ["localhost:6000"]

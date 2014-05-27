@@ -1,0 +1,6 @@
+ - A test SQLite database
+ - Glade files for testing the ORM and some insertions/modifications of the local database
+ - Implement a DHT and start writting a protocol
+ - Create a swarm launcher, and make a tracker.
+ - A file log
+ - A client to test sending messages to all the peers
